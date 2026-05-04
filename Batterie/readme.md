@@ -1,3 +1,3 @@
-![Batterie](Maker_Batterie.png)
+![Batterie](Maker_Batterie.jpeg)
 
 **Batterie 2s2p fonctionnel**
